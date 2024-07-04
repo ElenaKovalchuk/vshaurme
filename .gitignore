@@ -1,2 +1,2 @@
 /.idea
-*.sqlite3
+/vshaurme/*.sqlite3
